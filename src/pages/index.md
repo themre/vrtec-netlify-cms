@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/flavor_wheel.jpg
+image: /img/boxed-water-is-better-1463986-unsplash.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
